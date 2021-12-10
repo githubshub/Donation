@@ -1,0 +1,130 @@
+
+body {
+    background-image: url(https://source.unsplash.com/1920x1080/?Charity,poorpeople);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    
+    .text1{
+     font-size: 18px;
+    }
+    .text2{
+      
+      font-size: 25px;
+    }
+    .text3{
+      color: #1039aa;
+    }
+    
+    .logo {
+      width: 45px;
+      height: 45px;
+    }
+    
+    .logo1{
+      height: 125px;
+      width: 135px;
+    }
+    
+    #heading{
+      margin-top: 90px;
+    }
+    
+    h1 {
+      color: #ffffff;
+      font-family: cursive;
+      
+    }
+    h2 {
+      color: #e02020f1;
+      font-family: cursive;
+      
+    }
+    h3 {
+      color: #1cc438f1;
+      font-family: cursive;
+      
+    }
+    h5 {
+      color: #13087a;
+      font-family: cursive;
+      
+    }
+    
+    #donate{
+      margin-top:50px;
+      padding: 10px;
+      width: 390px;
+      height: 260px;
+      border-radius: 15px;
+      background-color: rgba(14, 63, 92, 0.199);
+    }
+    
+    #donate1{
+      margin-top: 50px;
+      padding: 10px;
+      width: 370px;
+      height: 475px;
+      border-radius: 15px;
+      background-color: rgba(14, 63, 92, 0.199);
+    }
+    
+    label {
+     font-weight: bolder;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    
+    q{
+      text-align: center;
+      font-size: 25px;
+      font-weight: bold;
+      font-family: monospace;
+    }
+    
+    .donatebtn{
+      text-align: center;
+      font-family: cursive;
+      margin-top: 20px;
+      cursor: pointer;
+      font-size: 35px;
+      border-radius: 15px;
+      border: none;
+      padding-left: 18px;
+      padding-right: 18px;
+      padding-top: 2px;
+      padding-bottom: 5px;
+      color: #fdca88;
+      background-color:#f02f16;
+    }
+    
+    .donatebtn1{
+      text-align: center;
+      font-family: cursive;
+      margin-top: 50px;
+      cursor: pointer;
+      font-size: 35px;
+      border-radius: 15px;
+      border: none;
+      padding-left: 18px;
+      padding-right: 18px;
+      padding-top: 2px;
+      padding-bottom: 5px;
+      color: #fdca88;
+      background-color:#f02f16;
+    }
+    
+    .footer{
+      background-color: rgba(4, 255, 255, 0.411);
+      color: #000000;
+      font-size: 15px;
+      text-align: center;
+      height: 35px;
+      max-height: fit-content;
+      margin-top: 138px;
+      padding-top: 5px;
+    }
+    .link{
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      letter-spacing: 0.3ex;
+    }
